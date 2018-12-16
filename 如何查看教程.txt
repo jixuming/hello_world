@@ -1,0 +1,7 @@
+下载教程并解压
+
+在命令行里cd到解压的文件目录的_book目录
+
+在命令行运行python -m http.server
+
+在浏览器访问localhost:8000
